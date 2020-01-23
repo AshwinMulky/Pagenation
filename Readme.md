@@ -4,4 +4,4 @@ To Access
 https://my-json-server.typicode.com/AshwinMulky/Pagenation
 
 Pagenation
-https://my-json-server.typicode.com/AshwinMulky/Pagenation/posts?_page=2&_limit=2
+https://my-json-server.typicode.com/AshwinMulky/Pagenation/data?_page=2&_limit=2
