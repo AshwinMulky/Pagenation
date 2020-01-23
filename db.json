@@ -1,32 +1,32 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "ABC"
     },
    {
       "id": 2,
-      "title": "hello"
+      "title": "EFG"
     },
     {
       "id": 3,
-      "title": "hello"
+      "title": "ABUIIT"
     },
     {
       "id": 4,
-      "title": "hello"
+      "title": "DIJ"
     },
     {
       "id": 5,
-      "title": "hello"
+      "title": "GIT"
     },
     {
       "id": 6,
-      "title": "hello"
+      "title": "QWERTY"
     },
     {
       "id": 7,
-      "title": "hello"
+      "title": "PASS"
     }
   ],
   "profile": {
